@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "applications": {
     "gecko": {
-      "id": "tst-relativelabels@matru"
+      "id": "tst-relative-tab-count@matru"
     }
   },
   "name": "TST Relative Tab Count",
