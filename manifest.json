@@ -8,7 +8,7 @@
   "name": "TST Relative Tab Count",
   "author": "matru",
   "version": "1.0",
-  "description": "Displays labels in the Tree Style Tab sidebar showing the distance (in tabs) from the active tab, for the 50 tabs before and after it. Automatically updates when switching tabs. Designed to complement Vim-style navigation extensions like Vimium and Tridactyl.",
+  "description": "Displays labels on the Tree Style Tab sidebar showing the distance (in tabs) from the active tab, for the 50 tabs before and after it. Automatically updates when switching tabs. Complements Vim-style navigation extensions like Vimium and Tridactyl.",
   "background": {
     "scripts": ["background.js"]
   },
